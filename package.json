@@ -1,5 +1,5 @@
 {
-  "name": "shopit",
+  "name": "MusicLyrics",
   "version": "1.0.0",
   "description": "full ecommerce site using mern",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "seeder": "node backend/utils/seeder.js",
     "build":"npm i"
   },
-  "author": "Ghulam Abbas",
+  "author": "Unish Rai",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
